@@ -1,3 +1,5 @@
 _source/
 _book/
 !_book/*
+_source/_book
+.DS_Store
